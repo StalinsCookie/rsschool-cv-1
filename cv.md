@@ -50,4 +50,4 @@ IT software
 ## Languages
 * Russian - native
 * Belarusian - native
-* English - intermediate/intermediate
+* English - pre-intermediate/intermediate
