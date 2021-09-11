@@ -1,7 +1,7 @@
-#Maxim Kushnerov
+# Maxim Kushnerov
 **JavaScript frontend developer**
 ___
-##Contacts
+## Contacts
 * Email: **rojers1941@yandex.by**
 * Phone: **+375(29)103-55-14**
 * Telegram: **@KushnerovM** 
